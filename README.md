@@ -35,7 +35,7 @@ Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-
 ### Habilidades Técnicas (Lenguajes y Frameworks)
 [![My Skills](https://skillicons.dev/icons?i=astro,vue,react,next,nuxtjs,typescript,js,jquery,laravel,php)](#)
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,postgres,mysql,markdown)](#)
-<img src="./public/livewire.png" height="45" />
+<a href="#"><img src="./public/livewire.png" height="45" /></a>
 
 - **Frontend**: Vue, React, Next.js, Nuxt.js, JavaScript, TypeScript, jQuery, HTML, CSS, Sass, Tailwind, Bootstrap.
 - **Backend**: Laravel, PHP.
@@ -77,9 +77,9 @@ Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-
 
 ### Gestores de contenido
 [![My Skills](https://skillicons.dev/icons?i=wordpress)](#)
-<img src="./public/hubspot.webp" height="45" />
-<img src="./public/jumpseller.png" height="45" />
-<img src="./public/shopify.ico" height="45" />
+<a href="#"><img src="./public/hubspot.webp" height="45" /></a>
+<a href="#"><img src="./public/jumpseller.png" height="45" /></a>
+<a href="#"><img src="./public/shopify.ico" height="45" /></a>
 - **CMS**: WordPress, Shopify, Jumpseller, Hubspot.
 
 ---
@@ -94,8 +94,8 @@ Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-
 
 ### Aprendiendo y profundizando
 [![My Skills](https://skillicons.dev/icons?i=deno,nuxt,astro)](#)
-<img src="./public/deno-fresh.png" height="45" />
-<img src="./public/hubspot.webp" height="45" />
+<a href="#"><img src="./public/deno-fresh.png" height="45" /></a>
+<a href="#"><img src="./public/hubspot.webp" height="45" /></a>
 
 - **Aprendiendo**: Deno fresh, Nuxt.js.
 - **Profundizando**: Hubspot, Astro.
