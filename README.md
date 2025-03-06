@@ -41,9 +41,9 @@ Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-
 ---
 
 ### Herramientas de Desarrollo
-[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,vscode,postman,figma,discord,notion,docker,slack)](#)
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,git,vscode,postman,figma,discord,notion,docker,bitbucket)](#)
 
-- **Control de versiones**: Git, GitHub, GitLab.
+- **Control de versiones**: Git, GitHub, GitLab, Bitbucket.
 - **Editores/IDE**: Visual Studio Code (VSCode).
 - **Diseño y colaboración**: Figma, Discord, Notion.
 - **Testing y APIs**: Postman.
