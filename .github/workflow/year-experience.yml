@@ -1,0 +1,28 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    - cron: "0 0 1 1 *" # Ejecutar el 1 de enero de cada año
+  workflow_dispatch: # Permite ejecutar manualmente
+
+jobs:
+  update-years:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update years
+        run: |
+          START_YEAR=2018  # Año en que comenzaste
+          CURRENT_YEAR=$(date +%Y)
+          YEARS=$((CURRENT_YEAR - START_YEAR))
+
+          # Actualizar README.md
+          sed -i "s/<!-- experience-years -->[0-9]*<!-- \/experience-years -->/<!-- experience-years -->$YEARS<!-- \/experience-years -->/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update experience years" && git push)
