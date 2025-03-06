@@ -7,11 +7,11 @@
         <img 
             align="center" 
             width="200" 
-            src="./public/7D-Pd3W8-400-400-clear.avif" 
+            src="./public/7D-Pd3W8_400-400-rounded.png" 
             onerror="this.onerror=null; this.src='./public/7D-Pd3W8_400-400.png'" 
             style="transition: all 0.3s; cursor: pointer;border-radius: 50%;background-color: #F5F5DC;"
             onmouseover="this.style.transform='scale(.99)';this.src='./public/7D-Pd3W8_400-400.jpg'"
-            onmouseout="this.style.transform='scale(1)';this.src='./public/7D-Pd3W8-400-400-clear.avif'"
+            onmouseout="this.style.transform='scale(1)';this.src='./public/7D-Pd3W8_400-400-rounded.png'"
             alt="Profile picture"
         />
     </a>
