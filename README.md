@@ -3,28 +3,23 @@
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
 <p align="center" width="300">
-    <a href="https://www.linkedin.com/in/darioesp/">
-        <img 
-            align="center" 
-            width="200" 
-            src="./public/7D-Pd3W8_400-400-rounded.png" 
-            alt="Profile picture"
-        />
+    <a href="https://www.linkedin.com/in/daesdev/">
+        <img src="https://img.shields.io/badge/LinkedIn-Dario%20Espinoza-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
     </a>
-    <h1 align="center" style="color:#bfffff">
-        ¡Hey 👋!<br/>
-        <p style="color:#fff">Soy Dario Espinoza 👨🏻‍💻</p>
+    <h1 align="" style="color:#bfffff">
+        ¡Hey 👋!
+        <span style="color:#fff">soy Dario Espinoza 👨🏻‍💻</span>
     </h1>
 </p>
 <p>
-Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-years --> años de experiencia, con alto dominio del Frontend y recorrido en Backend, con habilidad en diseño web y gestión de contenidos. He liderado proyectos y equipos, destacando por mi creatividad, eficiencia y aplicación de buenas prácticas, código limpio y sostenible. 🚀
+Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-years --> años de experiencia, con alto dominio del Frontend y recorrido en Backend, con habilidad en diseño web y gestión de contenidos. 🚀
 
-¡Inspírate y crea! ✨ 
+✨ ¡Inspirándome y creando cosas!
 
 <p style="display: flex; column-gap: 6px; align-items: center;">
-    ¡Conectemos y desarrollemos! 🤝 
+    Tienes una idea o proyecto:
     <a href="mailto:dario.espinoza.dev@gmail.com">
-      <img src="./public/email-me.jpg" height="30" />
+      <img src="https://img.shields.io/badge/Escribir-Mail-green?style=for-the-badge&logo=gmail" alt="Gmail contact" />
     </a>
 </p>
 
@@ -101,16 +96,13 @@ Especializado en desarrollo web con +<!-- experience-years -->6<!-- /experience-
 <details>
   <summary>Github Stats </summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=darioesp&bg_color=40,00a8a8,001&title_color=fff&text_color=bfffff&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioesp&layout=compact&bg_color=40,00a8a8,001&title_color=fff&text_color=bfffff&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=daesdev&bg_color=40,00a8a8,001&title_color=fff&text_color=bfffff&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daesdev&layout=compact&bg_color=40,00a8a8,001&title_color=fff&text_color=bfffff&count_private=true&hide_border=true)</a>
 </details>
 
 <details>
   <summary>Mini proyectos </summary>
 
-  <a href="https://github.com/darioesp/Changelog-base">![Changelog-base](https://github-readme-stats.vercel.app/api/pin/?username=darioesp&layout=compact&repo=Changelog-base&bg_color=001&count_private=true&hide_border=true)</a>
-  <a href="https://github.com/darioesp/zsh-alias-site-new">![zsh-alias-site-new](https://github-readme-stats.vercel.app/api/pin/?username=darioesp&layout=compact&repo=zsh-alias-site-new&bg_color=001&count_private=true&hide_border=true)</a>
+  <a href="https://github.com/daesdev/Changelog-base">![Changelog-base](https://github-readme-stats.vercel.app/api/pin/?username=daesdev&layout=compact&repo=Changelog-base&bg_color=001&count_private=true&hide_border=true)</a>
+  <a href="https://github.com/daesdev/zsh-alias-site-new">![zsh-alias-site-new](https://github-readme-stats.vercel.app/api/pin/?username=daesdev&layout=compact&repo=zsh-alias-site-new&bg_color=001&count_private=true&hide_border=true)</a>
 </details>
-
-##### Quieres tus stats en tu perfil de GitHub?
-###### visita a este [github Anurag Hazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file)
